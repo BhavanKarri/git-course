@@ -1,3 +1,6 @@
 Hello bhavan!! Welcome to the world of GIT.
 Hope you have a beatiful journey ahead.
 ALL THE BEST...
+
+Day-2 
+Ok bhavan! It's day-2 what's your update on the git course.
