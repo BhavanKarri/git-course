@@ -1,0 +1,3 @@
+DBMS is 70% completed.
+DSA is yet to be started.
+Aptitude is 50% completed.
